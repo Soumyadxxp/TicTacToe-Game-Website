@@ -17,7 +17,7 @@ Built with pure HTML, CSS and JavaScript featuring an unbeatable AI, particle ef
 
 ## ✨ Overview
 
-Tic-Tac-Toe Premium is a modern reimagining of the classic game with a futuristic neon aesthetic and polished user experience.
+Tic-Tac-Toe is a modern reimagining of the classic game with a futuristic neon aesthetic and polished user experience.
 
 The project includes:
 
